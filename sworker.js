@@ -4,8 +4,8 @@ const PRECACHE_URLS = [
   './index.html?homescreen=v2',
   './index.html',
   './manifest.webmanifest',
-  './icons/icon-192.png',
-  './icons/icon-512.png',
+  './icons/Logo-GadgetGo-192x192.png',
+  './icons/Logo-GadgetGo-512x512.png',
 ];
 
 self.addEventListener('install', (event) => {
